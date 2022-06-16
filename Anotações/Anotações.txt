@@ -1,1 +1,3 @@
-git add - adiciona os arquivos para serem commitados (commit) 
+git add * - adiciona todos os arquivos para serem commitados (commit) 
+git commit -m "mensagem" - comita o arquivo e adiciona uma mensagem (ideal que seja uma mensagem clara)
+git push origin main - envia os arquivos comitados para o GitHub 
