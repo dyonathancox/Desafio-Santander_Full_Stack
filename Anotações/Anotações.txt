@@ -1,0 +1,1 @@
+git add - adiciona os arquivos para serem commitados (commit) 
